@@ -7,9 +7,13 @@
 then you can go to this localhost:http://localhost:8888/hkid_appointment_system/public/index.php?page=appointment_form
 2. **Place the project in `htdocs`**
 
-   ```text
+
    C:\MAMP\htdocs\hkid_appointment_system
-  (./screenshot/ThankYou_page.png)
-  screenshot/book_HKID_page.png
-  screenshot/admin_dashboard.png
-  screenshot/admin_login_page.png
+   ![MAMP control panel](./screenshot/admin_login_page.png)
+   the user name is "admin", password is"secret123"
+   ![MAMP control panel](./screenshot/admin_dashboard.png)
+   as a admin, you can see all registration
+    ![MAMP control panel](./screenshot/book_HKID_page.png)
+   if you are customer, you can make a booking
+   ![MAMP control panel](./screenshot/ThankYou_page.png)
+  if you booking sucessful, will show you nthis screen.
