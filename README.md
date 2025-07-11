@@ -10,7 +10,7 @@ then you can go to this localhost:http://localhost:8888/hkid_appointment_system/
 
    C:\MAMP\htdocs\hkid_appointment_system
    ![MAMP control panel](./screenshot/admin_login_page.png)
-   the user name is "admin", password is"secret123"
+   the user name is `admin`, password is `secret123`, if it fail, you can go to setting to change it
    ![MAMP control panel](./screenshot/admin_dashboard.png)
    as a admin, you can see all registration
     ![MAMP control panel](./screenshot/book_HKID_page.png)
